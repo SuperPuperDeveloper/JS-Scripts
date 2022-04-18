@@ -4,4 +4,4 @@ doc.overflow = "none";
 doc.scroll = "auto";
 doc.height = "100%";
 */
-Alert("Working")
+alert("Working")
