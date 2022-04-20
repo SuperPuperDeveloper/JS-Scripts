@@ -1,1 +1,1 @@
-alert(GM)
+alert(GM.info)
